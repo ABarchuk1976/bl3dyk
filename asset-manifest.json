@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bl3dyk/static/css/main.928ab68a.css",
+    "main.js": "/bl3dyk/static/js/main.20ad3b3a.js",
+    "index.html": "/bl3dyk/index.html",
+    "main.928ab68a.css.map": "/bl3dyk/static/css/main.928ab68a.css.map",
+    "main.20ad3b3a.js.map": "/bl3dyk/static/js/main.20ad3b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.928ab68a.css",
+    "static/js/main.20ad3b3a.js"
+  ]
+}
